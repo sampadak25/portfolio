@@ -2,8 +2,6 @@
 const Contact =() => {
   return (
 <div>
-<img  className="m-2"
-      src="https://i0.wp.com/gdcindia.co.in/wp-content/uploads/2019/03/contact-us-background.jpg?ssl=1" />
 
     <div>
       
